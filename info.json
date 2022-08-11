@@ -1,12 +1,12 @@
 {
   "name": "RobotDeconstructionTrash",
-  "version": "1.0.2",
-  "factorio_version": "0.17",
+  "version": "1.0.3",
+  "factorio_version": "1.1",
   "title": "Robot Deconstruction Trash",
   "author": "Ahsous",
   "contact": "",
   "homepage": "",
-  "description": "Deletes wood and stone when deconstructed by robots.",
+  "description": "Deletes wood and stone when deconstructed by robots. Robots will still fly to entities as usual.",
   "dependencies": [
     "base >= 0.15.0"
   ],
